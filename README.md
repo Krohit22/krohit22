@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=60&lines=Backend+Architect;Python+%26+Deep+Learning+Builder;AI+%26+Computer+Vision+Enthusiast" alt="Typing SVG" />
 
   <p align="center">
-    <a href="https://linkedin.com/in/krishna-rajpurohit" target="_blank">
+    <a href="www.linkedin.com/in/krishna-rajpurohit-008a49245" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:rajpurohitkrish45666@gmail.com">
